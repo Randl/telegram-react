@@ -94,7 +94,6 @@ pre code {
 }
 
 .message-wrapper {
-    max-width: 460px;
     padding: 8px 15px;
     margin: 0 auto;
     display: flex;
